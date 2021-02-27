@@ -1,2 +1,2 @@
 # learn_html
-Learn HTLM
+This is the repo where I learn HTML
